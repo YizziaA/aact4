@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBez1iSjgA-OnDaOQ-UzRlwqjW7CnfDSz8',
-    authDomain: 'login-flutlab.firebaseapp.com',
-    projectId: 'login-flutlab',
-    storageBucket: 'login-flutlab.appspot.com',
-    messagingSenderId: '1066261989603',
-    appId: '1:1066261989603:web:db01c22c1133efdbc69dd6'
+    apiKey: 'AIzaSyAfvvmRISNwt640VCAGLghRNLdzRBvMEo0',
+    authDomain: 'actividad4-4519d.firebaseapp.com',
+    projectId: 'actividad4-4519d',
+    storageBucket: 'actividad4-4519d.appspot.com',
+    messagingSenderId: '316234288907',
+    appId: '1:316234288907:web:796060f5c47b8b4b07dc0e'
   );
 }

@@ -17,7 +17,7 @@ class MiAplicacion extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Dulcería Alegrías',
+      title: 'Veterinaria Huellitas',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
@@ -42,7 +42,7 @@ class PaginaSesion extends StatelessWidget {
     String contrasena = _passwordController.text;
 
     QuerySnapshot querySnapshot = await _usersCollection
-        .where('email', isEqualTo: email)
+        .where('Correo', isEqualTo: email)
         .where('password', isEqualTo: contrasena)
         .get();
 
@@ -134,8 +134,8 @@ class PaginaSesion extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('Dulcería Alegrías'),
-        backgroundColor: const Color(0xffb80303),
+        title: const Text('Veterinaria Huellitas'),
+        backgroundColor: const Color(0xff27949c),
         elevation: 8,
       ),
       body: Padding(
@@ -213,7 +213,7 @@ class PaginaInicio extends StatelessWidget {
       appBar: AppBar(
         centerTitle: true,
         title: const Text('Dulcería Alegrías'),
-        backgroundColor: const Color(0xffb80303),
+        backgroundColor: const Color(0xff36d5d5),
         elevation: 8,
       ),
       body: Center(
