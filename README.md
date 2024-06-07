@@ -34,3 +34,8 @@ https://youtu.be/EGgsT_fSP50
 
 ## Imagenes
 ![image](https://github.com/YizziaA/aact4/assets/143548810/5745a652-69f5-4b69-aeda-75b6c0601270)
+![image](https://github.com/YizziaA/aact4/assets/143548810/2cc6a6d3-3aab-4c75-a37a-7ab09a361ef4)
+![image](https://github.com/YizziaA/aact4/assets/143548810/f5ce2ed5-543d-406a-9f4b-3eeecacf7ef3)
+![image](https://github.com/YizziaA/aact4/assets/143548810/6dd66ef8-862b-4a13-8180-ed3a6c0cb532)
+
+
